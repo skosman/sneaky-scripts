@@ -1,4 +1,4 @@
-# Take a break reminder
+# Take a break reminder. Uses terminal-notifier.
 # Sam Kosman
 # Date: Jan 2021
 
